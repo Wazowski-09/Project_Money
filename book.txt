@@ -1,0 +1,21 @@
+name,author,isbn,amount
+THE FRENCH REVOLUTION,PhiraWut SenaMontri,011,1
+ANNE FRANK,Anne frank,012,1
+MEIN KAMPF,Adolf Hitler,013,1
+ANIMAL FARM,George Orwell,014,1
+THE CUBAN REVOLUTION,Nuthida Rasiwisut,015,1
+THE AMERICAN CIVIL WAR,CharoenKhwan PhaeRokThong,016,1
+VIKING MYTHOLOGY,KhotMot,017,1
+SALADIN,Phatphan Pansida,018,1
+THE CRUSADES,Phatphan Pansida,019,1
+ANCIENT WORLD,Susan Wise Bauer,020,1
+MEDIEVAL WORLD,Bingham jane,021,1
+SAPIENS,Yuval Noah Harari,022,1
+GREAT MONGOL EMPIRE,Phatphan Pansida,023,1
+HISTORY OF SCANDINAVIA,Thomas Kingston Derry,024,1
+THE HUNGRY EMPIRE,Elizabeth M.,025,1
+WHY IS SEX FUN,Jared Diamond,026,1
+NANJING MASSACRE,Iris Chang,027,1
+THE VOYAGE OF THE BEAGLE,Charles Darwin,028,1
+BLOOD RED SNOW,Koschorrek,029,1
+THE OTTOMAN EMPIRE,Suraiya Faroqhi,030,1
